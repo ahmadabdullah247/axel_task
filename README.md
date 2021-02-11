@@ -1,5 +1,7 @@
 # Axel Task Project Assignment
-
+Service is deployed live on heruko on following [link](https://axeltestservice.herokuapp.com/)
+![](https://img.shields.io/badge/Deploy-Heruko-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a
 ## How to run
 1. Clone repository
 ```bash
